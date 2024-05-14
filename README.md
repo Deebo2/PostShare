@@ -98,10 +98,10 @@ in each of your views files like so:
 
 ## Screenshots
 
-![Home page](https://github.com/Deebo2/PostShare/images/home.jpg)
-![Login page](https://github.com/Deebo2/PostShare/images/login.jpg)
-![Register page](https://github.com/Deebo2/PostShare/images/register.jpg)
-![Posts page](https://github.com/Deebo2/PostShare/images/posts.jpg)
-![Post page](https://github.com/Deebo2/PostShare/images/post.jpg)
-![edit post page](https://github.com/Deebo2/PostShare/images/edit-post.jpg)
+![Home page](https://github.com/Deebo2/PostShare/blob/master/images/home.jpg)
+![Login page](https://github.com/Deebo2/PostShare/blob/master/images/login.jpg)
+![Register page](https://github.com/Deebo2/PostShare/blob/master/images/register.jpg)
+![Posts page](https://github.com/Deebo2/PostShare/blob/master/images/posts.jpg)
+![Post page](https://github.com/Deebo2/PostShare/blob/master/images/post.jpg)
+![edit post page](https://github.com/Deebo2/PostShare/blob/master/images/edit-post.jpg)
 
