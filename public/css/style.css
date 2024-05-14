@@ -1,0 +1,58 @@
+body{
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+}
+
+.formcard{
+    margin-bottom: 2%;
+    box-shadow: 0px 0px 30px rgb(180, 129, 34);
+}
+.formcard label{
+    color:#d1d11f;
+    font-weight: 600;
+    margin-bottom:1%;
+}
+.formcard h2{
+    color:#d1d11f;
+    font-weight: 600;
+}
+.formcard .inputField{
+    background-color: gray;
+    cursor: pointer;
+}
+.formcard input[type='submit']{
+    color:rgb(180, 129, 34);
+    font-size: 120%;
+    font-weight: 600;
+}
+#msg-flash{
+    width: 40%;
+    margin-right: 1%;
+    padding: 1%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+.blog{
+    color:rgb(211, 207, 200);
+}
+.blog .card-title{
+    color:#d1d11f;
+}
+.post-page{
+    color:#4A90E3;
+}
+.post-info{
+    color:blanchedalmond;
+    font-size: medium;
+    font-weight: 500;
+}
+.back-btn{
+    color: #d1d11f;
+    font-size:large;
+    font-weight: 500;
+}
+.edit-delete{
+    display: flex;
+    justify-content: space-around;
+}
